@@ -96,8 +96,8 @@ Ext.define('LookbackBurnChartApp', {
             },
             filters:[
                 {
-                    property:'_Type',
-                    value:'HierarchicalRequirement'
+                    property:'_TypeHierarchy',
+                    value:-51038
                 },
                 {
                     property:'_ItemHierarchy',
